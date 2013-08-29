@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1445EDE0-4EC1-44F3-B803-105594C9BD35</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIToolkitCMDLineCWrapperExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EB172BB-DF17-49DC-93AF-EA923B1A3C49</key>
+		<string>https://cvs.lnf.infn.it/chaos-example_uitoolkit_cwrapper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIToolkitCMDLineCWrapperExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EB172BB-DF17-49DC-93AF-EA923B1A3C49</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://cvs.lnf.infn.it/chaos-example_uitoolkit_cwrapper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EB172BB-DF17-49DC-93AF-EA923B1A3C49</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EB172BB-DF17-49DC-93AF-EA923B1A3C49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExampleUIToolkitCWrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
